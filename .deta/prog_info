@@ -1,0 +1,1 @@
+{"id":"08dc0942-2680-4d52-a812-66f9ffbea8f5","space":48551,"runtime":"python3.9","name":"Proyecto_individual_2023","path":"7chysr","project":"e003rnhp","account":"144798365827","region":"sa-east-1","deps":["fastapi","pandas"],"envs":null,"public":true,"log_level":"off","cron":""}
